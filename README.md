@@ -1,23 +1,21 @@
 ## Project Name:  Expense Calculator Application
 
 ### Course Title:
-Web Application Development
+LIS 2360: Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Nicole Jenks)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we assigned variables, such as household, trasnportation, and miscellaneous, to calcualate their percentage out of the total amount of expenses.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+( https://nicolejenkss.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. (An array is an ordered list of elements. It is a set of data represented by a single variable name and each piece of data in an array is an element. JavaScript represents arrays with the Array object. Also, getElementsByTagName() returns an array.)
+2. (Java and JavaScript are two totally different languages. JavaScript is a loosely-typed language where you do not need to declare a variable. Java is a much more complex programming language and is strongly-typed.)
+3. (The three types of data types are primitive, composite, and special. Primitive date types consist of number, boolean, and string. Composite data types consist of object and array. Special data types consist of null, which represents nothing, and undefined, which represents a value of an uninitialized variable.)
